@@ -1,6 +1,6 @@
 ### Hey there, I'm Nischal,
 
-- 🔭 I’m a passionate Software Engineer interested in solving real world problems
+- 🔭 I’m a passionate Software Engineer interested in solving real world problems.
 - 👀 I’m interested in Full Stack Web Development, Application Development, Big Data and Machine Learning / Artificial Intelligence.
 - 📫 How to reach me:
   - email: nischal43@gmail.com
